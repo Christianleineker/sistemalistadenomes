@@ -24,15 +24,15 @@ Este é um projeto simples desenvolvido com **Angular** e **TypeScript** que sim
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 2. Navegue a até a pasta do projeto:
-
+   ```bash
     cd nome-do-projeto
 
 3. Instale as dependências:
-
+   ```bash  
     npm install
 
 4. Inicie o servidor de desenvolvimento:
-
+   ```bash
     ng serve
 
 5. Acesse no navegador:
